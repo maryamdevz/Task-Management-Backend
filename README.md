@@ -1,6 +1,6 @@
 # Task Management App
 
-A task management application backend that allows users to manage their tasks. The system uses **FastAPI and FastAPI&#x20;**.
+A task management application backend that allows users to manage their tasks. The system uses **Python, FastAPI and PostgreSQL**.
 
 ## Features
 

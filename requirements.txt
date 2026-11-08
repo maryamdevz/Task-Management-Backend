@@ -1,0 +1,16 @@
+# FastAPI
+fastapi[standard]
+uvicorn
+pydantic
+pydantic_settings
+
+# DataBase
+psycopg[binary]
+SQLAlchemy
+alembic
+
+# Authentication
+pyjwt
+pwdlib[argon2]
+
+
